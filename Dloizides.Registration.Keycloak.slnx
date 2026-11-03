@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Dloizides.Registration.Keycloak/Dloizides.Registration.Keycloak.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Dloizides.Registration.Keycloak.Tests/Dloizides.Registration.Keycloak.Tests.csproj" />
+  </Folder>
+</Solution>
